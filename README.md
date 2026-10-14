@@ -1,5 +1,4 @@
-
-## WHO AM I?
+## ABOUT ME
 
 Hey there! I'm **Manasvi Patil** 👋
 
