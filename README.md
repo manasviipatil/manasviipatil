@@ -186,7 +186,7 @@ A portal concept intended to make it easier to report and find misplaced belongi
 </tr>
 </table>
 
-> **Note:** Pomodoro Timer and Lost & Found Portal are included as projects of interest. Repository links are omitted because no repository URLs were provided for them.
+
 
 ---
 
